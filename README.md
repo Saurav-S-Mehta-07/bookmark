@@ -29,4 +29,3 @@ Bookmark Manager is a simple, lightweight web extension that allows users to eff
 ## Notes
 
 - Currently, the extension does not support folders or cross-device synchronization.
-- Designed to be compatible with both **Chrome** and **Firefox** browsers.
